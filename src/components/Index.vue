@@ -7,7 +7,7 @@
     </div>
     <div class="question_line">
       <div style="padding-left: 2%">
-        <van-radio-group v-model="in_mall" style="margin-top: 2px;font-size:0.3em;line-height: 25px;">
+        <van-radio-group v-model="in_mall" style="margin-top: 2px;font-size:0.5em;line-height: 25px;">
           <van-radio name="1">是的</van-radio>
           <van-radio name="2">不是</van-radio>
         </van-radio-group>
@@ -20,7 +20,7 @@
     </div>
     <div class="question_line">
       <div style="padding-left: 1%">
-        <van-radio-group v-model="years"  style="margin-top: 2px;padding-left:2px;font-size:0.3em;line-height: 25px;">
+        <van-radio-group v-model="years"  style="margin-top: 2px;padding-left:2px;font-size:0.5em;line-height: 25px;">
           <van-radio name="1">十年以上</van-radio>
           <van-radio name="2">5-10年</van-radio>
           <van-radio name="3">3-5年</van-radio>
@@ -35,7 +35,7 @@
     </div>
     <div class="question_line">
       <div style="padding-left: 1%">
-        <van-radio-group v-model="local_people" style="margin-top: 2px;padding-left:2px;font-size:0.3em;line-height: 25px;">
+        <van-radio-group v-model="local_people" style="margin-top: 2px;padding-left:2px;font-size:0.5em;line-height: 25px;">
           <van-radio name="1">常德市区户籍</van-radio>
           <van-radio name="2">常德地区非市区户籍</van-radio>
           <van-radio name="3">省内非常德户籍</van-radio>
@@ -50,7 +50,7 @@
     </div>
     <div class="question_line">
       <div style="padding-left: 1%">
-        <van-radio-group v-model="living" style="margin-top: 2px;padding-left:2px;font-size:0.3em;line-height: 25px;">
+        <van-radio-group v-model="living" style="margin-top: 2px;padding-left:2px;font-size:0.5em;line-height: 25px;">
           <van-radio name="1">多套商品房</van-radio>
           <van-radio name="2">一套商品房</van-radio>
           <van-radio name="3">自建房</van-radio>
@@ -64,12 +64,12 @@
     </div>
     <div class="question_line">
       <div style="padding-left: 1%">
-        <van-radio-group v-model="card" style="margin-top: 2px;padding-left:2px;font-size:0.3em;line-height: 25px;">
+        <van-radio-group v-model="card" style="margin-top: 2px;padding-left:2px;font-size:0.5em;line-height: 25px;">
           <van-radio name="1">总额度低于10万</van-radio>
           <van-radio name="2">占用总额度50%以下</van-radio>
           <van-radio name="3">占用总额度50%-70%</van-radio>
           <van-radio name="4">占用总额度70%-90%</van-radio>
-          <van-radio name="4">占用总额度90%以上</van-radio>
+          <van-radio name="5">占用总额度90%以上</van-radio>
         </van-radio-group>
       </div>
     </div>
@@ -79,7 +79,7 @@
     </div>
     <div class="question_line">
       <div style="padding-left: 1%">
-        <van-radio-group v-model="age" style="margin-top: 2px;padding-left:2px;font-size:0.3em;line-height: 25px;">
+        <van-radio-group v-model="age" style="margin-top: 2px;padding-left:2px;font-size:0.5em;line-height: 25px;">
           <van-radio name="1">18周岁以下或者65周岁以上</van-radio>
           <van-radio name="2">18-28周岁</van-radio>
           <van-radio name="3">28-50周岁</van-radio>
@@ -93,7 +93,7 @@
     </div>
     <div class="question_line">
       <div style="padding-left: 1%">
-        <van-radio-group v-model="sales"  style="margin-top: 2px;padding-left:2px;font-size:0.3em;line-height: 25px;">
+        <van-radio-group v-model="sales"  style="margin-top: 2px;padding-left:2px;font-size:0.5em;line-height: 25px;">
           <van-radio name="1">1000万以上</van-radio>
           <van-radio name="2">500-1000万</van-radio>
           <van-radio name="3">300-500万</van-radio>
