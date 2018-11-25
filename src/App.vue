@@ -2,8 +2,8 @@
   <div id="app">
     <div class="common_header" style="padding-bottom: 20px;">
       <div style="color: #fff;font-size: 1.5em;padding-top: 10px;">长沙银行“长湘贷“</div>
-      <div class="is-size-small" style="color: rgb(88, 235, 222);margin-top: 20px;font-size: 0.4em;">//桥南市场客户专属额度自测表//</div>
-      <div style="background: rgb(46,166,223);color: #fff;font-size: 0.4em; text-align: left; width: 80%;margin-left: 10%;margin-top: 20px;">
+      <div class="is-size-small" style="color: rgb(88, 235, 222);margin-top: 20px;font-size: 0.5em;">//桥南市场客户专属额度自测表//</div>
+      <div style="background: rgb(46,166,223);color: #fff;font-size: 0.5em; text-align: left; width: 80%;margin-left: 10%;margin-top: 20px;">
         <p style="padding-left: 1em;padding-right: 1em;padding-top: 0.5em;padding-bottom: 0.5em;">
           桥南家电城是辐射湘西北家电批零的重要市场之一，为此长沙银行小企业信贷中心量身定制了授信方案，只需填入基本信息，即可出具初评额度。
           <br/>
