@@ -10,7 +10,10 @@ export default new Router({
     {
       path: '/',
       name: 'Index',
-      component: Index
+      component: Index,
+      meta: {
+        title: '中小企业-额度自测'
+      }
     },
     {
       path: '/result',
